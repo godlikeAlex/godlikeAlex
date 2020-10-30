@@ -37,6 +37,4 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=godlikeAlex&show_icons=true&hide_border=true" />
 
-[telegram]: https://t.me/yurkovskyy
-[instagram]: https://www.instagram.com/a_yurkovskiy/
-[vk]: https://vk.com/yurkovsky1
+
