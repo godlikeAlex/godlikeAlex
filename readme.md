@@ -1,6 +1,6 @@
-### Hi there, I'm Alexander Yurkovsky 👋
+## Hi there, I'm Aleksandr Yurkovsky 👋
 
-## I'm a Frontend, Backend and iOS/Android developer 🐱‍💻
+#### I'm a Frontend, Backend and iOS/Android developer 🐱‍💻
 
 ### Languages and Tools:
 
