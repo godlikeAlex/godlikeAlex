@@ -1,9 +1,6 @@
 ### Hi there, I'm Alexander Yurkovsky 👋
 
-## I'm a Frontend, Backend and Native developer 🐱‍💻
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+## I'm a Frontend, Backend and iOS/Android developer 🐱‍💻
 
 ### Languages and Tools:
 
