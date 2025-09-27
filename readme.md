@@ -1,20 +1,20 @@
 # <img src="https://github.com/godlikeAlex/godlikeAlex/blob/master/pepe-hi.gif?raw=true" width="28px" /> Hi there, I'm Aleksandr Yurkovsky 
 I’m a full-stack developer, also a mobile dev using React Native for iOS and Android. I enjoy building clean, scalable, and user-friendly solutions.
 
-📫 Contact me at: [godlikedesigner@gmail.com](mailto:godlikedesigner@gmail.com)  
+<img src="https://github.com/godlikeAlex/godlikeAlex/blob/master/hacker.gif?raw=true" width="24px"  /> Contact me at: [godlikedesigner@gmail.com](mailto:godlikedesigner@gmail.com)  
 
 [![Static Badge](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2F%40yurkovskyy)](https://t.me/yurkovskyy)
 
 ---
 
-**📜 Certifications**
+**<img src="https://github.com/godlikeAlex/godlikeAlex/blob/master/math.gif?raw=true" width="24px"  /> Certifications**
 
 [![Static Badge](https://img.shields.io/badge/React%20Certificate-RS_School-yellow?style=for-the-badge&logo=react)](https://app.rs.school/certificate/clzb5ald)
 [![Static Badge](https://img.shields.io/badge/Javascript-RS_School-black?style=for-the-badge&logo=javascript)](https://app.rs.school/certificate/jcwng8i2)
 
 <br />
 
-**🛠️ Favorite Tools**
+**<img src="https://github.com/godlikeAlex/godlikeAlex/blob/master/magic.gif?raw=true" width="22px"  /> Favorite Tools**
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)](#)
