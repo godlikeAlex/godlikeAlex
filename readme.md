@@ -40,6 +40,5 @@ I’m a full-stack developer, also a mobile dev using React Native for iOS and A
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=godlikeAlex&show_icons=true&hide_border=true" />
-
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=godlikeAlex&show_icons=true&theme=swift" />
 
