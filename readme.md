@@ -7,7 +7,7 @@ I’m a full-stack developer, also a mobile dev using React Native for iOS and A
 
 ---
 
-**<img src="https://github.com/godlikeAlex/godlikeAlex/blob/master/math.gif?raw=true" width="24px"  /> Certifications**
+**<img src="https://github.com/godlikeAlex/godlikeAlex/blob/master/math.gif?raw=true" width="24px"  /> Certificates**
 
 [![Static Badge](https://img.shields.io/badge/React%20Certificate-RS_School-yellow?style=for-the-badge&logo=react)](https://app.rs.school/certificate/clzb5ald)
 [![Static Badge](https://img.shields.io/badge/Javascript-RS_School-black?style=for-the-badge&logo=javascript)](https://app.rs.school/certificate/jcwng8i2)
